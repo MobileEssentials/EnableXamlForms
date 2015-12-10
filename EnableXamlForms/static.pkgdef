@@ -1,9 +1,9 @@
 ﻿[$RootKey$\XmlChooserFactory\XAML\MobileEssentialsXamarinForms2014]
 "Namespace"="http://xamarin.com/schemas/2014/forms"
 "Match"="both"
-"DefaultLogicalView"="{7651A701-06E5-11D1-8EBD-00A0C90F26EA}"
+"DefaultLogicalView"="{7651A702-06E5-11D1-8EBD-00A0C90F26EA}"
 "Extension"="xaml"
 "{7651A700-06E5-11D1-8EBD-00A0C90F26EA}"="{f11acc28-31d1-4c80-a34b-f4e09d3d753c}"
-"{7651A701-06E5-11D1-8EBD-00A0C90F26EA}"="{f11acc28-31d1-4c80-a34b-f4e09d3d753c}}"
+"{7651A701-06E5-11D1-8EBD-00A0C90F26EA}"="{f11acc28-31d1-4c80-a34b-f4e09d3d753c}"
 "{7651A702-06E5-11D1-8EBD-00A0C90F26EA}"="{f11acc28-31d1-4c80-a34b-f4e09d3d753c}"
 "{7651A703-06E5-11D1-8EBD-00A0C90F26EA}"="{f11acc28-31d1-4c80-a34b-f4e09d3d753c}"
